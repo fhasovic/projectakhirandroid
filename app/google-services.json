@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "35592527969",
+    "firebase_url": "https://locationtracking-bc593.firebaseio.com",
+    "project_id": "locationtracking-bc593",
+    "storage_bucket": "locationtracking-bc593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35592527969:android:f744b31f6010ea5f",
+        "android_client_info": {
+          "package_name": "com.dinus.yuditarum.realtimelocationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35592527969-cbsa6narh9584qen958jqs6rqua70og4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinus.yuditarum.realtimelocationtracking",
+            "certificate_hash": "a8d37cf832ed655a3cad8a3012f6d5e53adcfd1d"
+          }
+        },
+        {
+          "client_id": "35592527969-lj5due1uut2i8d4ihofcfhvlf0korcl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgxucV2zU5mDjsf7GKTJa2vdHVtEAEyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35592527969-lj5due1uut2i8d4ihofcfhvlf0korcl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
